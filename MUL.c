@@ -19,7 +19,7 @@ int main(int argc, char *argv[])
         return (0);
     }
 
-    bla = subZahl(bla, bli);
+    bla = multZahl(bla, bli);
 
     if (bla.re.divident != 0)
     {
